@@ -34,3 +34,6 @@ due before in 7 days
 group by filename
 sort by due
 ```
+
+
+Test auto sync 2026-05-14
