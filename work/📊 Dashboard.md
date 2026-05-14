@@ -5,6 +5,10 @@
 not done
 heading includes Milestones
 group by filename
+hide backlink 
+hide edit button
+hide postpone button 
+hide task count
 ```
 
 ## 📅 Hôm nay

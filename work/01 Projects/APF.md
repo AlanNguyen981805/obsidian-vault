@@ -1,5 +1,5 @@
 ## 🎯 Milestones
-- [ ]  Fix 50 bugs trong 3 ngày - Deadline 📅 2026-05-17 
+- [ ]  Fix 50 bugs trong 3 ngày - deadline 📅 2026-05-17 
 
 ## Counter
 -  Done: 0/50
