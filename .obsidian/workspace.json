@@ -43,12 +43,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_template/daily.md",
+                "file": "work/00 Inbox/2026-05-15.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "daily"
+              "title": "2026-05-15"
             }
           }
         ],
@@ -75,7 +75,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Trình duyệt tệp"
             }
           },
           {
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_template/daily.md",
+                "file": "work/00 Inbox/2026-05-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for daily"
+              "title": "Backlinks for 2026-05-15"
             }
           },
           {
@@ -144,12 +144,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_template/daily.md",
+                "file": "work/00 Inbox/2026-05-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from daily"
+              "title": "Outgoing links from 2026-05-15"
             }
           },
           {
@@ -187,13 +187,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_template/daily.md",
+                "file": "work/00 Inbox/2026-05-15.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of daily"
+              "title": "Outline of 2026-05-15"
             }
           }
         ]
@@ -205,19 +205,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
+      "switcher:Mở bộ chuyển đổi nhanh": false,
+      "graph:Mở xem biểu đồ": false,
+      "canvas:Tạo bảng mới": false,
+      "daily-notes:Mở ghi chú hôm nay": false,
+      "templates:Chèn mẫu": false,
+      "command-palette:Mở khay lệnh": false,
+      "bases:Tạo cơ sở mới": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d64f8f92705627c8",
+  "active": "180852e70b615444",
   "lastOpenFiles": [
     "work/00 Inbox/14-05-2026.md",
+    "work/00 Inbox/2026-05-15.md",
     "_template/daily.md",
     "_template",
     "work/📊 Dashboard.md",
