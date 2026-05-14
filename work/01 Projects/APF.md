@@ -6,9 +6,8 @@
 -  Stuck: 0
 
 ## Daily Plan
-- [ ]Tạo các báo cáo 01, 02, 03, 04, 05 | 📅 2026-05-14 ⏫ 
-- [ ] T5 (14/05): 17 bugs
-- [ ] T6 (15/05): 17 bugs
+- [ ] Tạo các báo cáo 01, 02, 03, 04, 05 | 📅 2026-05-14 ⏫ 
+- [ ] Fix 10 bugs | 📅 2026-05-14 ⏫ 
 
 ## Stuck bugs
 - [ ] APFV2-2220: Chờ Công phản hồi api trả ra dữ liệu tên file
