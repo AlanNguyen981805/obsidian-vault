@@ -1,0 +1,13 @@
+# Obsidian workspace state
+work/.obsidian/workspace.json
+work/.obsidian/workspace-mobile.json
+work/.obsidian/workspace.json.bak
+
+# Obsidian cache
+work/.obsidian/cache
+
+# Trash
+work/.trash/
+
+# macOS
+.DS_Store
