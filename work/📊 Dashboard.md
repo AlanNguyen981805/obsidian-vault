@@ -1,18 +1,5 @@
 
-## 🎯 Milestones tổng quan
-
-```tasks
-not done
-heading includes Milestones
-group by filename
-hide backlink 
-hide edit button
-hide postpone button 
-hide task count
-```
-
-
-## 📅 Hôm nay
+## 📅 Today
 
 ```tasks
 not done
