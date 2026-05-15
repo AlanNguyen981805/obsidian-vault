@@ -4,7 +4,9 @@
 ## Tasks
 - [x] Remind chị Thúy test phần căn tuần
 - [x] Xin file dữ liệu để làm tính năng import dữ liệu
-- [ ] Develop tool chuyển đổi dữ liệu từ excel sang hệ thống thẻ nghỉ 📅 2026-05-14 
+- [x] Develop tool chuyển đổi dữ liệu từ excel sang hệ thống thẻ nghỉ 📅 2026-05-14 ✅ 2026-05-15
+- [ ] Chạy tool update data | Deadline: 📅 2026-05-15 
+- [ ] Remind tiến độ test Căn Tuần | Deadline : 📅 2026-05-16 
 
 ## Notes
 Ghi chú dự án ở đây.
