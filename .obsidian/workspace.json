@@ -50,9 +50,19 @@
               "icon": "lucide-file",
               "title": "APF"
             }
+          },
+          {
+            "id": "d99c7f61b0bf9d35",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -215,11 +225,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "180852e70b615444",
+  "active": "d99c7f61b0bf9d35",
   "lastOpenFiles": [
     "work/📊 Dashboard.md",
-    "work/01 Projects/XLITE.md",
     "work/01 Projects/APF.md",
+    "work/01 Projects/XLITE.md",
     "work/01 Projects/RAVI.md",
     "work/01 Projects/DNI.md",
     "work/00 Inbox/2026-05-15.md",
