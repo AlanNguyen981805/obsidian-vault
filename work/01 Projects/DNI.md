@@ -1,4 +1,8 @@
-Giai đoạn UAT, bên khách hàng đang vào test
+
+## 📊 Status
+
+Dự-án:: 🟡 Khách hàng đang vào testing
+Tôi:: Support các chị quá trình testing, chưa làm phân quyền , BE vẫn lỗi
 
 ## 🎯 Milestones
 - [ ] Làm chức năng phân quyền | 📅 2026-05-17

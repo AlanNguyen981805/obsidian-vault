@@ -1,9 +1,14 @@
+
+
+## 📊 Status
+
+Dự-án:: 🟡 Bàn giao UAT
+Tôi:: Fix bugs
+
+
 ## 🎯 Milestones
 - [ ]  Fix 50 bugs trong 3 ngày - deadline 📅 2026-05-17 
 
-## Counter
--  Done: 0/50
--  Stuck: 0
 
 ## Daily Plan
 - [x] Tạo các báo cáo 01, 02, 03, 04, 05 | ⏫ 📅 2026-05-15 ✅ 2026-05-15

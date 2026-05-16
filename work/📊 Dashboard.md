@@ -1,4 +1,8 @@
-
+## Tổng quan dự án
+```dataview
+TABLE Dự-án AS "Trạng thái dự án", Tôi AS "Tôi đang làm"
+FROM "work/01 Projects"
+```
 
 ## 🚨 Quá hạn
 
