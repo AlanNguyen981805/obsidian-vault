@@ -12,7 +12,8 @@ Tôi:: Làm chức năng import dữ liệu 2022 vào hệ thống
 - [x] Xin file dữ liệu để làm tính năng import dữ liệu
 - [x] Develop tool chuyển đổi dữ liệu từ excel sang hệ thống thẻ nghỉ 📅 2026-05-14 ✅ 2026-05-15
 - [ ] Chạy tool update data | Deadline: 📅 2026-05-15 #doing
-- [ ] Remind tiến độ test Căn Tuần | Deadline : 📅 2026-05-16 
+- [x] Remind tiến độ test Căn Tuần | Deadline : 📅 2026-05-16 ✅ 2026-05-16
+- [ ] Làm rõ lại logic căn tuần để báo tester 📅 2026-05-16 #doing 
 
 ## Notes
 Ghi chú dự án ở đây.

@@ -43,12 +43,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "work/📊 Dashboard.md",
-                "mode": "preview",
+                "file": "work/01 Projects/RAVI.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "📊 Dashboard"
+              "title": "RAVI"
             }
           }
         ],
@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "#doing",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +105,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -125,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "work/📊 Dashboard.md",
+                "file": "work/01 Projects/RAVI.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +136,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 📊 Dashboard"
+              "title": "Backlinks for RAVI"
             }
           },
           {
@@ -215,12 +216,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9beb5e5fe8ee74de",
+  "active": "9b432bd9fd91311c",
   "lastOpenFiles": [
-    "work/01 Projects/APF.md",
-    "work/01 Projects/DNI.md",
     "work/📊 Dashboard.md",
     "work/01 Projects/RAVI.md",
+    "work/01 Projects/APF.md",
+    "work/01 Projects/DNI.md",
     "work/01 Projects/XLITE.md",
     "work/00 Inbox/2026-05-15.md",
     "work/00 Inbox/14-05-2026.md",
