@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#doing",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,8 +105,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -216,16 +215,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9b432bd9fd91311c",
+  "active": "9beb5e5fe8ee74de",
   "lastOpenFiles": [
-    "work/📊 Dashboard.md",
-    "work/01 Projects/RAVI.md",
-    "work/01 Projects/APF.md",
     "work/01 Projects/DNI.md",
+    "work/01 Projects/APF.md",
+    "work/📊 Dashboard.md",
+    "Untitled.base",
+    "work/01 Projects/RAVI.md",
     "work/01 Projects/XLITE.md",
     "work/00 Inbox/2026-05-15.md",
     "work/00 Inbox/14-05-2026.md",
-    "Untitled.base",
     "Chưa đặt tên.canvas",
     "_template/daily.md",
     "_template",
