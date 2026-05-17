@@ -4,7 +4,7 @@
 Dự-án:: 🟡 Chị Thúy đang testing, chưa báo khách vào test
 Tôi:: 
 - Chưa làm chức năng import dữ liệu 2022 vào hệ thống
-- Đã sửa lại xong phần căn tuần theo tiêu chuẩn phòng nghỉ, cần báo chị Thúy test lại
+- Đã sửa lại xong phần căn tuần theo tiêu chuẩn phòng nghỉ, cần báo chị Thúy test lại, đi làm test lại 1 luồng rồi xóa data rồi đưa chị thúy excel file và luồng test
 
 ## 🎯 Milestones
 - [ ]  Bàn giao hết hạng mục UAT cho KH - Deadline 📅 2026-05-17 
