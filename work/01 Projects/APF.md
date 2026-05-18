@@ -13,6 +13,8 @@ Tôi:: Đẩy các báo cáo đã refactor lên MT test
 ## Daily Plan
 - [x] Tạo các báo cáo 01, 02, 03, 04, 05 | ⏫ 📅 2026-05-15 ✅ 2026-05-15
 - [x] Fix 10 bugs | ⏫ 📅 2026-05-14 ✅ 2026-05-14
+- [ ] Fix bugs UAT | 📅 2026-05-18 #doing 
+- [ ] Panning dự án 📅 2026-05-18 
 
 ## Stuck bugs
 - [ ] APFV2-2220: Chờ Công phản hồi api trả ra dữ liệu tên file
