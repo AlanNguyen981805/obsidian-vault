@@ -13,8 +13,10 @@ Tôi::
 - [x] Remind chị Thúy test phần căn tuần
 - [x] Xin file dữ liệu để làm tính năng import dữ liệu
 - [x] Develop tool chuyển đổi dữ liệu từ excel sang hệ thống thẻ nghỉ 📅 2026-05-14 ✅ 2026-05-15
-- [ ] Chạy tool update data | Deadline: 📅 2026-05-15 #doing
-- [ ] Sửa lại logic căn tuần lấy tiêu chuẩn phòng từ const có sẵn 📅 2026-05-17 
+- [ ] Chạy tool update data | Deadline: #doing 📅 2026-05-18
+- [ ] Self test lại luồng |  📅 2026-05-18 
+- [ ] Báo a Quyết build | 📅 2026-05-18 
+- [x] Sửa lại logic căn tuần lấy tiêu chuẩn phòng từ const có sẵn 📅 2026-05-17 ✅ 2026-05-18
 - [x] Remind tiến độ test Căn Tuần | Deadline : 📅 2026-05-16 ✅ 2026-05-16
 - [x] Làm rõ lại logic căn tuần để báo tester #doing 📅 2026-05-16 ✅ 2026-05-17
 
