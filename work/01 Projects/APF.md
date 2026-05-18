@@ -3,7 +3,7 @@
 ## 📊 Status
 
 Dự-án:: 🟡 Bàn giao UAT
-Tôi:: Fix bugs
+Tôi:: Đẩy các báo cáo đã refactor lên MT test
 
 
 ## 🎯 Milestones
