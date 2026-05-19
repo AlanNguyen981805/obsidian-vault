@@ -15,7 +15,7 @@ Tôi:: Fix 30 bugs trong 2 ngày
 - [x] Fix 10 bugs | ⏫ 📅 2026-05-14 ✅ 2026-05-14
 - [x] Fix bugs UAT | #doing 📅 2026-05-18 ✅ 2026-05-19
 - [x] Panning dự án 📅 2026-05-18 ✅ 2026-05-19
-- [ ] Fix 15 bugs | 📅 2026-05-19 
+- [ ] Fix 15 bugs | 📅 2026-05-19 #doing 
 
 ## Stuck bugs
 - [ ] APFV2-2220: Chờ Công phản hồi api trả ra dữ liệu tên file
