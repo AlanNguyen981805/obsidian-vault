@@ -3,7 +3,7 @@
 ## 📊 Status
 
 Dự-án:: 🟡 Bàn giao UAT
-Tôi:: Làm CR trong ngày 20 - 21
+Tôi:: Làm CR trong ngày 20 - 21 nhưng Công chưa fix được CR nào 
 
 
 ## 🎯 Milestones
