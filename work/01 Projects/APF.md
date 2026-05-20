@@ -3,7 +3,7 @@
 ## 📊 Status
 
 Dự-án:: 🟡 Bàn giao UAT
-Tôi:: Fix 30 bugs trong 2 ngày
+Tôi:: Làm CR trong ngày 20 - 21
 
 
 ## 🎯 Milestones
@@ -15,7 +15,8 @@ Tôi:: Fix 30 bugs trong 2 ngày
 - [x] Fix 10 bugs | ⏫ 📅 2026-05-14 ✅ 2026-05-14
 - [x] Fix bugs UAT | #doing 📅 2026-05-18 ✅ 2026-05-19
 - [x] Panning dự án 📅 2026-05-18 ✅ 2026-05-19
-- [ ] Fix 15 bugs | 📅 2026-05-19 #doing 
+- [x] Fix 15 bugs | #doing 📅 2026-05-19 ✅ 2026-05-20
+- [ ] Hoàn thành các task CR trong hôm nay | 📅 2026-05-20 
 
 ## Stuck bugs
 - [ ] APFV2-2220: Chờ Công phản hồi api trả ra dữ liệu tên file
