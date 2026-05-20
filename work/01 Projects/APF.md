@@ -19,7 +19,6 @@ Tôi:: Làm CR trong ngày 20 - 21
 - [ ] Hoàn thành các task CR trong hôm nay | 📅 2026-05-20 
 
 ## Stuck bugs
-- [ ] APFV2-2220: Chờ Công phản hồi api trả ra dữ liệu tên file
 - [ ] Tinh tức: trường published confrim Công trả ra dạng datetime, hiện tại đang nhận date
 - [ ] https://jira.apecgroup.net/browse/APFV2-2201: block Công chưa trả đủ trường 
 - [ ] https://jira.apecgroup.net/browse/APFV2-2331 block Công chưa có API 
@@ -31,3 +30,6 @@ Tôi:: Làm CR trong ngày 20 - 21
 - [ ] https://jira.apecgroup.net/browse/APFV2-2123 block do BE chưa cho search theo nhãn 
 - [ ] https://jira.apecgroup.net/browse/APFV2-2201 block do BE chưa có trường lưu tên file
 - [ ] https://jira.apecgroup.net/browse/APFV2-1213 BE chưa xử lý 
+- [ ] https://jira.apecgroup.net/browse/APFV2-789 BE chưa có sort
+- [ ] https://jira.apecgroup.net/browse/APFV2-1970 BE chưa có sort
+- [ ] https://jira.apecgroup.net/browse/APFV2-1947 BE chưa có sort
