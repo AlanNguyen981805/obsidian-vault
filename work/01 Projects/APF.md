@@ -78,7 +78,7 @@ Status:: #doing Project:: [[APF]] Deadline:: 2026-05-25
 - BE cần sửa nguồn khai thác nhận trường mới
 ---
 
-## CR4 — Chữ ký thay đổi NĐT
+## CR8 — Chữ ký thay đổi NĐT APFV2-2354
 
 - [ ] Bổ sung chữ ký cho loại thay đổi = Đăng ký #waiting 
 - [ ] Bổ sung chữ ký cho loại thay đổi = Cập nhật thông tin NĐT #waiting 
@@ -95,9 +95,9 @@ Status:: #doing Project:: [[APF]] Deadline:: 2026-05-25
 
 ---
 
-## CR6 — Cột thay đổi chữ ký
+## CR9 — Cột thay đổi chữ ký
 
-- [ ] Bổ sung cột "Thay đổi chữ ký" trên danh sách, hiển thị Có/Không
+- [ ] Bổ sung cột "Thay đổi chữ ký" trên danh sách, hiển thị Có/Không #doing 
 
 **Note:**
 
