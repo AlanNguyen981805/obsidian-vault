@@ -179,7 +179,7 @@ Status:: #doing Project:: [[APF]] Deadline:: 2026-05-25
 ## CR15 — Danh mục NTV / Thêm Sửa (APFV2-2364)
 
 - [x] Cảnh báo trùng Mã NTV ngay khi nhập xong ✅ 2026-05-21
-- [ ] Chặn lưu nếu Ngày hết hạn <= Ngày hiện tại
+- [x] Chặn lưu nếu Ngày hết hạn <= Ngày hiện tại ✅ 2026-05-21
 
 **Note:**
 
