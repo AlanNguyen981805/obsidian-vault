@@ -57,6 +57,7 @@ Status:: #doing Project:: [[APF]] Deadline:: 2026-05-25
 - [ ] Bổ sung xuất excel các trường trên
 
 **Note:**
+- BE Chưa trả ra ngày đáo hạn
 
 ---
 
