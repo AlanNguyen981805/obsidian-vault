@@ -16,7 +16,7 @@ Tôi:: Làm CR trong ngày 20 - 21
 - [x] Fix bugs UAT | #doing 📅 2026-05-18 ✅ 2026-05-19
 - [x] Panning dự án 📅 2026-05-18 ✅ 2026-05-19
 - [x] Fix 15 bugs | #doing 📅 2026-05-19 ✅ 2026-05-20
-- [ ] Hoàn thành các task CR trong hôm nay | 📅 2026-05-20 
+- [x] Hoàn thành các task CR trong hôm nay | 📅 2026-05-20 ✅ 2026-05-21
 
 ## Stuck bugs
 - [ ] Tinh tức: trường published confrim Công trả ra dạng datetime, hiện tại đang nhận date
@@ -35,3 +35,8 @@ Tôi:: Làm CR trong ngày 20 - 21
 - [ ] https://jira.apecgroup.net/browse/APFV2-1947 BE chưa có sort
 
 # CR
+1. Bổ sung hiển thị các trường thông tin trên danh sách và xuất excel
+Nguồn khai thác, Tài khoản NĐT, Ngày cấp, Nơi cấp cccd của NĐT, Mã tài sản, Ngày đáo hạn, Số hợp đồng
+
+2. Bổ sung hiển thị các trường thông tin trên danh sách và xuất excel
+Nguồn khai thác, Tài khoản NĐT, Ngày cấp, Nơi cấp cccd của NĐT, Mã tài sản, Số hợp đồng, Ngày mua của hợp đồng, Số tiền thanh toán, lãi suất tại thời điểm bán
