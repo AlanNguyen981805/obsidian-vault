@@ -40,3 +40,7 @@ Nguồn khai thác, Tài khoản NĐT, Ngày cấp, Nơi cấp cccd của NĐT, 
 
 2. Bổ sung hiển thị các trường thông tin trên danh sách và xuất excel
 Nguồn khai thác, Tài khoản NĐT, Ngày cấp, Nơi cấp cccd của NĐT, Mã tài sản, Số hợp đồng, Ngày mua của hợp đồng, Số tiền thanh toán, lãi suất tại thời điểm bán
+3. Import cập nhật NTV: Bổ sung thêm trường Nguồn khai thác
+
+4. Bổ sung Chữ ký cho loại thay đổi = Đăng ký hoặc loại thay đổi = Cập nhật thông tin NĐT
+5. Quản lý NĐT/Duyệt thay đổi TT NĐT / Xem/Duyệt/Từ chối / Mô tả: Nguồn khai thác phái bắt buộc nhập khi duyệt với Loại thay đổi = Cập nhật thông tin NĐT
