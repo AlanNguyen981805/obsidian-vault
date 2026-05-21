@@ -63,8 +63,8 @@ Status:: #doing Project:: [[APF]] Deadline:: 2026-05-25
 
 ## CR3 — Lệnh rút tích lũy / APFV2-2388
 
-- [ ] Bổ sung hiển thị trên danh sách: Nguồn khai thác, Tài khoản NĐT, Ngày cấp, Nơi cấp CCCD, Mã tài sản, Số hợp đồng, Ngày mua HĐ, Số tiền thanh toán, Lãi suất tại thời điểm bán
-- [ ] Bổ sung xuất excel các trường trên
+- [x] Bổ sung hiển thị trên danh sách: Nguồn khai thác, Tài khoản NĐT, Ngày cấp, Nơi cấp CCCD, Mã tài sản, Số hợp đồng, Ngày mua HĐ, Số tiền thanh toán, Lãi suất tại thời điểm bán ✅ 2026-05-21
+- [x] Bổ sung xuất excel các trường trên ✅ 2026-05-21
 
 **Note:**
 
