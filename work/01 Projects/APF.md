@@ -35,19 +35,175 @@ Tôi:: Làm CR trong ngày 20 - 21
 - [ ] https://jira.apecgroup.net/browse/APFV2-1947 BE chưa có sort
 
 # CR
-- [ ]  Bổ sung hiển thị các trường thông tin trên danh sách và xuất excel
-Nguồn khai thác, Tài khoản NĐT, Ngày cấp, Nơi cấp cccd của NĐT, Mã tài sản, Ngày đáo hạn, Số hợp đồng | 📅 2026-05-21
-- [ ] Bổ sung hiển thị các trường thông tin trên danh sách và xuất excel
-Nguồn khai thác, Tài khoản NĐT, Ngày cấp, Nơi cấp cccd của NĐT, Mã tài sản, Số hợp đồng, Ngày mua của hợp đồng, Số tiền thanh toán, lãi suất tại thời điểm bán 📅 2026-05-21 
 
-- [ ] Bổ sung hiển thị các trường thông tin trên danh sách và xuất excel
-Nguồn khai thác, Tài khoản NĐT, Ngày cấp, Nơi cấp cccd của NĐT, Mã tài sản, Số hợp đồng, Ngày mua của hợp đồng, Số tiền thanh toán, lãi suất tại thời điểm bán 📅 2026-05-21 
-- [ ] Import cập nhật NTV: Bổ sung thêm trường Nguồn khai thác 📅 2026-05-21 
+# APF Sprint Tasks
 
-- [ ] Bổ sung Chữ ký cho loại thay đổi = Đăng ký hoặc loại thay đổi = Cập nhật thông tin NĐT 📅 2026-05-21 
-- [ ] Nguồn khai thác phái bắt buộc nhập khi duyệt với Loại thay đổi = Cập nhật thông tin NĐT /  📅 2026-05-21 
-- [ ] Bổ sung cột "Thay đổi chữ ký", hiển thị Có/Không / 📅 2026-05-21
-- [ ] 1. Với các TK ở trạng thái = Ngừng hoạt động thì sẽ chặn thực hiện Thêm/Sửa/Duyệt/Đối trừ
- / 📅 2026-05-21
- - [ ] 
- 
+Status:: #doing Project:: [[APF]] Deadline:: 2026-05-25
+
+---
+
+## Tổng tiến độ
+
+- Total: 17 CRs
+- Done: 0/17
+- Doing: 0
+- Blocked: 0
+
+---
+
+## CR1 — Quản lý NĐT / Danh sách
+
+- [ ] Bổ sung hiển thị trên danh sách: Nguồn khai thác, Tài khoản NĐT, Ngày cấp, Nơi cấp CCCD, Mã tài sản, Ngày đáo hạn, Số hợp đồng #doing 
+- [ ] Bổ sung xuất excel các trường trên
+
+**Note:**
+
+---
+
+## CR2 — Quản lý NĐT / Danh sách (màn hình 2)
+
+- [ ] Bổ sung hiển thị trên danh sách: Nguồn khai thác, Tài khoản NĐT, Ngày cấp, Nơi cấp CCCD, Mã tài sản, Số hợp đồng, Ngày mua HĐ, Số tiền thanh toán, Lãi suất tại thời điểm bán
+- [ ] Bổ sung xuất excel các trường trên
+
+**Note:**
+
+---
+
+## CR3 — Import cập nhật NTV
+
+- [ ] Bổ sung thêm trường Nguồn khai thác trong import
+
+**Note:**
+
+---
+
+## CR4 — Chữ ký thay đổi NĐT
+
+- [ ] Bổ sung chữ ký cho loại thay đổi = Đăng ký
+- [ ] Bổ sung chữ ký cho loại thay đổi = Cập nhật thông tin NĐT
+
+**Note:**
+
+---
+
+## CR5 — Duyệt thay đổi TT NĐT
+
+- [ ] Nguồn khai thác bắt buộc nhập khi duyệt với Loại thay đổi = Cập nhật thông tin NĐT
+
+**Note:**
+
+---
+
+## CR6 — Cột thay đổi chữ ký
+
+- [ ] Bổ sung cột "Thay đổi chữ ký" trên danh sách, hiển thị Có/Không
+
+**Note:**
+
+---
+
+## CR7 — Chặn TK ngừng hoạt động
+
+- [ ] Chặn Thêm/Sửa/Duyệt/Đối trừ với TK trạng thái = Ngừng hoạt động 📅 2026-05-21
+
+**Note:**
+
+---
+
+## CR8 — Số dư khả dụng
+
+- [ ] Thêm trường Số dư khả dụng trên ô số tiền (màn hình Thêm/Sửa GD)
+- [ ] Chỉ hiển thị khi đã chọn NĐT và Loại GD = Rút tiền
+
+**Note:**
+
+---
+
+## CR9 — Validate ngày đặt lệnh
+
+- [ ] Không cho Thêm/Sửa/Đối trừ nếu Ngày đặt lệnh >= Ngày hết hạn (Loại GD = Rút tiền về TK)
+
+**Note:**
+
+---
+
+## CR10 — Disable ngày GD
+
+- [ ] Disable trường Ngày GD khi Thêm/Sửa GD tiền
+- [ ] Mặc định = Ngày hiện tại hệ thống
+
+**Note:**
+
+---
+
+## CR11 — Giao dịch tiền / Danh sách (APFV2-2391)
+
+- [ ] Bổ sung trường Số tài khoản sau trường NĐT (danh sách + xuất file)
+- [ ] Xuất excel: tách cột ghép thành mỗi trường 1 cột (Common rule)
+- [ ] Tách cột +/- khỏi giá trị tiền khi hiển thị và xuất file
+
+**Note:**
+
+---
+
+## CR12 — Common / Xuất file excel (APFV2-2359)
+
+- [ ] Tất cả trường số phải theo định dạng số excel (dấu chấm phân cách)
+- [ ] Fix lỗi đang xuất text số có dấu chấm thay vì số thật
+
+**Note:**
+
+---
+
+## CR13 — Phát hành Gói sản phẩm / Dừng huy động (APFV2-2362)
+
+- [ ] Bổ sung tính năng Dừng huy động cho nhiều đợt PH
+- [ ] Popup xác nhận hiển thị Ngày dừng huy động = Ngày T+1
+- [ ] Auto update Ngày dừng huy động và chuyển trạng thái Ngừng huy động
+
+**Note:**
+
+---
+
+## CR14 — Tài sản NĐT / Lịch trả lãi (APFV2-2363)
+
+- [ ] Bổ sung dòng tổng: Tiền lãi trước thuế, Tiền thuế, Tiền lãi sau thuế
+- [ ] Vị trí: trên bảng, ngang hàng nút Xuất file
+
+**Note:**
+
+---
+
+## CR15 — Danh mục NTV / Thêm Sửa (APFV2-2364)
+
+- [ ] Cảnh báo trùng Mã NTV ngay khi nhập xong
+- [ ] Chặn lưu nếu Ngày hết hạn <= Ngày hiện tại
+
+**Note:**
+
+---
+
+## CR16 — Báo cáo BC02 (APFV2-2357)
+
+- [ ] Thêm cột Ngày đặt lệnh (trước cột Ngày đáo hạn)
+- [ ] Thêm chia ô kẻ phần tổng số dư tài sản
+
+**Note:**
+
+---
+
+## CR17 — Quản lý tài sản / Lịch trả lãi (APFV2-2384)
+
+- [ ] Bổ sung tiêu chí tìm kiếm: Gói sản phẩm, TCPH
+- [ ] Bổ sung trường danh sách: Số tài khoản, Số ĐKSH, Ngày mua
+
+**Note:**
+
+---
+
+## Ghi chú chung
+
+- Jira filter: (paste link)
+- Design: (paste link)
+- Liên hệ BA:
+- Liên hệ QA:
