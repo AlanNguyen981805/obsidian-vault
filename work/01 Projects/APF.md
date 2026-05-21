@@ -35,12 +35,19 @@ Tôi:: Làm CR trong ngày 20 - 21
 - [ ] https://jira.apecgroup.net/browse/APFV2-1947 BE chưa có sort
 
 # CR
-1. Bổ sung hiển thị các trường thông tin trên danh sách và xuất excel
-Nguồn khai thác, Tài khoản NĐT, Ngày cấp, Nơi cấp cccd của NĐT, Mã tài sản, Ngày đáo hạn, Số hợp đồng
+- [ ]  Bổ sung hiển thị các trường thông tin trên danh sách và xuất excel
+Nguồn khai thác, Tài khoản NĐT, Ngày cấp, Nơi cấp cccd của NĐT, Mã tài sản, Ngày đáo hạn, Số hợp đồng | 📅 2026-05-21
+- [ ] Bổ sung hiển thị các trường thông tin trên danh sách và xuất excel
+Nguồn khai thác, Tài khoản NĐT, Ngày cấp, Nơi cấp cccd của NĐT, Mã tài sản, Số hợp đồng, Ngày mua của hợp đồng, Số tiền thanh toán, lãi suất tại thời điểm bán 📅 2026-05-21 
 
-2. Bổ sung hiển thị các trường thông tin trên danh sách và xuất excel
-Nguồn khai thác, Tài khoản NĐT, Ngày cấp, Nơi cấp cccd của NĐT, Mã tài sản, Số hợp đồng, Ngày mua của hợp đồng, Số tiền thanh toán, lãi suất tại thời điểm bán
-3. Import cập nhật NTV: Bổ sung thêm trường Nguồn khai thác
+- [ ] Bổ sung hiển thị các trường thông tin trên danh sách và xuất excel
+Nguồn khai thác, Tài khoản NĐT, Ngày cấp, Nơi cấp cccd của NĐT, Mã tài sản, Số hợp đồng, Ngày mua của hợp đồng, Số tiền thanh toán, lãi suất tại thời điểm bán 📅 2026-05-21 
+- [ ] Import cập nhật NTV: Bổ sung thêm trường Nguồn khai thác 📅 2026-05-21 
 
-4. Bổ sung Chữ ký cho loại thay đổi = Đăng ký hoặc loại thay đổi = Cập nhật thông tin NĐT
-5. Quản lý NĐT/Duyệt thay đổi TT NĐT / Xem/Duyệt/Từ chối / Mô tả: Nguồn khai thác phái bắt buộc nhập khi duyệt với Loại thay đổi = Cập nhật thông tin NĐT
+- [ ] Bổ sung Chữ ký cho loại thay đổi = Đăng ký hoặc loại thay đổi = Cập nhật thông tin NĐT 📅 2026-05-21 
+- [ ] Nguồn khai thác phái bắt buộc nhập khi duyệt với Loại thay đổi = Cập nhật thông tin NĐT /  📅 2026-05-21 
+- [ ] Bổ sung cột "Thay đổi chữ ký", hiển thị Có/Không / 📅 2026-05-21
+- [ ] 1. Với các TK ở trạng thái = Ngừng hoạt động thì sẽ chặn thực hiện Thêm/Sửa/Duyệt/Đối trừ
+ / 📅 2026-05-21
+ - [ ] 
+ 
