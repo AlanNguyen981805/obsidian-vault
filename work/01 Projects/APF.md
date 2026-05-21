@@ -97,13 +97,13 @@ Status:: #doing Project:: [[APF]] Deadline:: 2026-05-25
 
 ## CR9 — Cột thay đổi chữ ký
 
-- [ ] Bổ sung cột "Thay đổi chữ ký" trên danh sách, hiển thị Có/Không #doing 
+- [x] Bổ sung cột "Thay đổi chữ ký" trên danh sách, hiển thị Có/Không #doing ✅ 2026-05-21
 
 **Note:**
 
 ---
 
-## CR7 — Chặn TK ngừng hoạt động
+## CR10 — Chặn TK ngừng hoạt động
 
 - [ ] Chặn Thêm/Sửa/Duyệt/Đối trừ với TK trạng thái = Ngừng hoạt động 📅 2026-05-21
 
@@ -111,7 +111,7 @@ Status:: #doing Project:: [[APF]] Deadline:: 2026-05-25
 
 ---
 
-## CR8 — Số dư khả dụng
+## CR10 — Số dư khả dụng
 
 - [ ] Thêm trường Số dư khả dụng trên ô số tiền (màn hình Thêm/Sửa GD)
 - [ ] Chỉ hiển thị khi đã chọn NĐT và Loại GD = Rút tiền
@@ -140,17 +140,18 @@ Status:: #doing Project:: [[APF]] Deadline:: 2026-05-25
 ## CR11 — Giao dịch tiền / Danh sách (APFV2-2391)
 
 - [ ] Bổ sung trường Số tài khoản sau trường NĐT (danh sách + xuất file)
-- [ ] Xuất excel: tách cột ghép thành mỗi trường 1 cột (Common rule)
-- [ ] Tách cột +/- khỏi giá trị tiền khi hiển thị và xuất file
+- [x] Xuất excel: tách cột ghép thành mỗi trường 1 cột (Common rule) ✅ 2026-05-21
+- [x] Tách cột +/- khỏi giá trị tiền khi hiển thị và xuất file ✅ 2026-05-21
 
 **Note:**
+* BE chưa trả ra số tài khoản
 
 ---
 
 ## CR12 — Common / Xuất file excel (APFV2-2359)
 
-- [ ] Tất cả trường số phải theo định dạng số excel (dấu chấm phân cách)
-- [ ] Fix lỗi đang xuất text số có dấu chấm thay vì số thật
+- [x] Tất cả trường số phải theo định dạng số excel (dấu chấm phân cách) ✅ 2026-05-21
+- [x] Fix lỗi đang xuất text số có dấu chấm thay vì số thật ✅ 2026-05-21
 
 **Note:**
 
@@ -172,12 +173,12 @@ Status:: #doing Project:: [[APF]] Deadline:: 2026-05-25
 - [ ] Vị trí: trên bảng, ngang hàng nút Xuất file
 
 **Note:**
-
+- BE chưa trả ra data 
 ---
 
 ## CR15 — Danh mục NTV / Thêm Sửa (APFV2-2364)
 
-- [ ] Cảnh báo trùng Mã NTV ngay khi nhập xong
+- [x] Cảnh báo trùng Mã NTV ngay khi nhập xong ✅ 2026-05-21
 - [ ] Chặn lưu nếu Ngày hết hạn <= Ngày hiện tại
 
 **Note:**
