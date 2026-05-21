@@ -51,7 +51,7 @@ Status:: #doing Project:: [[APF]] Deadline:: 2026-05-25
 
 ---
 
-## CR1 — Quản lý NĐT / Danh sách
+## CR1 — CMS_Lệnh tích lũy / Danh sách
 
 - [ ] Bổ sung hiển thị trên danh sách: Nguồn khai thác, Tài khoản NĐT, Ngày cấp, Nơi cấp CCCD, Mã tài sản, Ngày đáo hạn, Số hợp đồng #doing 
 - [ ] Bổ sung xuất excel các trường trên
