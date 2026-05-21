@@ -51,17 +51,17 @@ Status:: #doing Project:: [[APF]] Deadline:: 2026-05-25
 
 ---
 
-## CR1 — CMS_Lệnh tích lũy / Danh sách
+## CR1 — CMS_Lệnh tích lũy / Danh sách APFV2-2386
 
-- [ ] Bổ sung hiển thị trên danh sách: Nguồn khai thác, Tài khoản NĐT, Ngày cấp, Nơi cấp CCCD, Mã tài sản, Ngày đáo hạn, Số hợp đồng #doing 
-- [ ] Bổ sung xuất excel các trường trên
+- [ ] Bổ sung hiển thị trên danh sách: Nguồn khai thác, Tài khoản NĐT, Ngày cấp, Nơi cấp CCCD, Mã tài sản, Ngày đáo hạn, Số hợp đồng #waiting
+- [x] Bổ sung xuất excel các trường trên ✅ 2026-05-21
 
 **Note:**
 - BE Chưa trả ra ngày đáo hạn
 
 ---
 
-## CR2 — Quản lý NĐT / Danh sách (màn hình 2)
+## CR3 — Lệnh rút tích lũy / APFV2-2388
 
 - [ ] Bổ sung hiển thị trên danh sách: Nguồn khai thác, Tài khoản NĐT, Ngày cấp, Nơi cấp CCCD, Mã tài sản, Số hợp đồng, Ngày mua HĐ, Số tiền thanh toán, Lãi suất tại thời điểm bán
 - [ ] Bổ sung xuất excel các trường trên
