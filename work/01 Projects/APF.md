@@ -52,18 +52,18 @@ Tôi:: Làm CR trong ngày 20 - 21
 ---
 
 ## 🛠️ 2. MÀN HÌNH THÊM / SỬA / XEM CHI TIẾT (Form Chi Tiết)
-- [ ] **Task 2.1:** [UI/Form] Bổ sung hiển thị `Ngày cấp`, `Nơi cấp CCCD` của khách hàng vào Tooltip NĐT tại các màn Thêm/Xem/Sửa.
-- [ ] **Task 2.2:** [UI/Form] Thêm trường `Nguồn khai thác` vào sau trường `NTV` tại màn Thêm/Sửa và bắt buộc nhập (Required).
-- [ ] **Task 2.3:** [UI/Form] Cấu hình trường `Giá trị tích lũy tối thiểu/NĐT` thành trường **Bắt buộc nhập** (Hiện tại đang không bắt buộc).
-- [ ] **Task 2.4:** [UI/UX] Bổ sung validate và hiển thị Cảnh báo trùng mã gói / Thứ tự hiển thị ngay khi `onBlur` (nhập xong mã gói), không đợi nhấn Lưu mới cảnh báo.
-- [ ] **Task 2.5:** [UI/Form] Bổ sung hiển thị trường `Chữ ký` cho màn hình liên quan.
+- [x] **Task 2.1:** [UI/Form] Bổ sung hiển thị `Ngày cấp`, `Nơi cấp CCCD` của khách hàng vào Tooltip NĐT tại các màn Thêm/Xem/Sửa. ✅ 2026-05-21
+- [x] **Task 2.2:** [UI/Form] Thêm trường `Nguồn khai thác` vào sau trường `NTV` tại màn Thêm/Sửa và bắt buộc nhập (Required). ✅ 2026-05-21
+- [x] **Task 2.3:** [UI/Form] Cấu hình trường `Giá trị tích lũy tối thiểu/NĐT` thành trường **Bắt buộc nhập** (Hiện tại đang không bắt buộc). ✅ 2026-05-21
+- [x] **Task 2.4:** [UI/UX] Bổ sung validate và hiển thị Cảnh báo trùng mã gói / Thứ tự hiển thị ngay khi `onBlur` (nhập xong mã gói), không đợi nhấn Lưu mới cảnh báo. ✅ 2026-05-21
+- [x] **Task 2.5:** [UI/Form] Bổ sung hiển thị trường `Chữ ký` cho màn hình liên quan. ✅ 2026-05-21
 
 ---
 
 ## 🧠 3. LOGIC & VALIDATION CHẶN LỆNH (Backend & Frontend Validation)
-- [ ] **Task 3.1:** [Validation] Chặn toàn bộ hành động Thêm/Sửa/Duyệt/Hủy duyệt đối với các Tài khoản ở trạng thái = `Ngừng hoạt động`.
-- [ ] **Task 3.2:** [Validation] Thêm/Sửa lệnh: Validate chặn không cho thực hiện nếu `Ngày đặt của lệnh >= Ngày hết hạn`.
-- [ ] **Task 3.3:** [Validation] Thêm/Sửa/Duyệt lệnh: Bổ sung rule chặn nếu `Ngày đặt lệnh < Ngày đáo hạn của tài sản`.
+- [x] **Task 3.1:** [Validation] Chặn toàn bộ hành động Thêm/Sửa/Duyệt/Hủy duyệt đối với các Tài khoản ở trạng thái = `Ngừng hoạt động`. ✅ 2026-05-21
+- [x] **Task 3.2:** [Validation] Thêm/Sửa lệnh: Validate chặn không cho thực hiện nếu `Ngày đặt của lệnh >= Ngày hết hạn`. ✅ 2026-05-21
+- [x] **Task 3.3:** [Validation] Thêm/Sửa/Duyệt lệnh: Bổ sung rule chặn nếu `Ngày đặt lệnh < Ngày đáo hạn của tài sản`. ✅ 2026-05-21
 
 ---
 
