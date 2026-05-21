@@ -70,9 +70,9 @@ Status:: #doing Project:: [[APF]] Deadline:: 2026-05-25
 
 ---
 
-## CR3 — Import cập nhật NTV
+## CR6 — Import cập nhật NTV
 
-- [ ] Bổ sung thêm trường Nguồn khai thác trong import
+- [ ] Bổ sung thêm trường Nguồn khai thác trong import #doing 
 
 **Note:**
 
