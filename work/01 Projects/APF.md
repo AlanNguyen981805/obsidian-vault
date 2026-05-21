@@ -122,7 +122,7 @@ Status:: #doing Project:: [[APF]] Deadline:: 2026-05-25
 
 ## CR9 — Validate ngày đặt lệnh
 
-- [ ] Không cho Thêm/Sửa/Đối trừ nếu Ngày đặt lệnh >= Ngày hết hạn (Loại GD = Rút tiền về TK)
+- [x] Không cho Thêm/Sửa/Đối trừ nếu Ngày đặt lệnh >= Ngày hết hạn (Loại GD = Rút tiền về TK) ✅ 2026-05-21
 
 **Note:**
 
