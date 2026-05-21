@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#block",
+                "query": "tag:#doing",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,

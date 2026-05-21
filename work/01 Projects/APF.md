@@ -72,19 +72,19 @@ Status:: #doing Project:: [[APF]] Deadline:: 2026-05-25
 
 ## CR6 — Import cập nhật NTV
 
-- [ ] Bổ sung thêm trường Nguồn khai thác trong import #doing 
+- [x] Bổ sung thêm trường Nguồn khai thác trong import ✅ 2026-05-21
 
 **Note:**
-
+- BE cần sửa nguồn khai thác nhận trường mới
 ---
 
 ## CR4 — Chữ ký thay đổi NĐT
 
-- [ ] Bổ sung chữ ký cho loại thay đổi = Đăng ký
-- [ ] Bổ sung chữ ký cho loại thay đổi = Cập nhật thông tin NĐT
+- [ ] Bổ sung chữ ký cho loại thay đổi = Đăng ký #waiting 
+- [ ] Bổ sung chữ ký cho loại thay đổi = Cập nhật thông tin NĐT #waiting 
 
 **Note:**
-
+- Đợi a Quyết bổ sung trường 
 ---
 
 ## CR5 — Duyệt thay đổi TT NĐT
