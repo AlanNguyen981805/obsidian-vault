@@ -130,8 +130,8 @@ Status:: #doing Project:: [[APF]] Deadline:: 2026-05-25
 
 ## CR10 — Disable ngày GD
 
-- [ ] Disable trường Ngày GD khi Thêm/Sửa GD tiền
-- [ ] Mặc định = Ngày hiện tại hệ thống
+- [x] Disable trường Ngày GD khi Thêm/Sửa GD tiền ✅ 2026-05-21
+- [x] Mặc định = Ngày hiện tại hệ thống ✅ 2026-05-21
 
 **Note:**
 
