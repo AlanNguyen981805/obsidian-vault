@@ -80,8 +80,8 @@ Status:: #doing Project:: [[APF]] Deadline:: 2026-05-25
 
 ## CR8 — Chữ ký thay đổi NĐT APFV2-2354
 
-- [ ] Bổ sung chữ ký cho loại thay đổi = Đăng ký #waiting 
-- [ ] Bổ sung chữ ký cho loại thay đổi = Cập nhật thông tin NĐT #waiting 
+- [x] Bổ sung chữ ký cho loại thay đổi = Đăng ký #waiting ✅ 2026-05-22
+- [x] Bổ sung chữ ký cho loại thay đổi = Cập nhật thông tin NĐT #waiting ✅ 2026-05-22
 
 **Note:**
 - Đợi a Quyết bổ sung trường 
