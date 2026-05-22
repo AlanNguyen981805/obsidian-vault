@@ -41,14 +41,17 @@
             "id": "6c489b7b0e423e23",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "work/01 Projects/APF.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "APF"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ],
@@ -218,9 +221,11 @@
   },
   "active": "6c489b7b0e423e23",
   "lastOpenFiles": [
+    "work/00 Inbox/2026-05-23.md",
+    "Untitled.canvas",
+    "work/01 Projects/APF.md",
     "work/📊 Dashboard.md",
     "work/01 Projects/RAVI.md",
-    "work/01 Projects/APF.md",
     "work/01 Projects/DNI.md",
     "work/01 Projects/XLITE.md",
     "work/00 Inbox/2026-05-19.md",
