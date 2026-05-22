@@ -68,6 +68,7 @@ Status:: #doing Project:: [[APF]] Deadline:: 2026-05-25
 
 **Note:**
 
+- [ ] [[CR8-Chu-ky-NDT]] 📅 2026-05-22 #doing - [ ] [[CR13-Dung-huy-dong]] 📅 2026-05-24
 ---
 
 ## CR6 — Import cập nhật NTV
