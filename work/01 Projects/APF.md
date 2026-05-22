@@ -113,8 +113,8 @@ Status:: #doing Project:: [[APF]] Deadline:: 2026-05-25
 
 ## CR10 — Số dư khả dụng
 
-- [ ] Thêm trường Số dư khả dụng trên ô số tiền (màn hình Thêm/Sửa GD)
-- [ ] Chỉ hiển thị khi đã chọn NĐT và Loại GD = Rút tiền
+- [x] Thêm trường Số dư khả dụng trên ô số tiền (màn hình Thêm/Sửa GD) ✅ 2026-05-22
+- [x] Chỉ hiển thị khi đã chọn NĐT và Loại GD = Rút tiền ✅ 2026-05-22
 
 **Note:**
 
