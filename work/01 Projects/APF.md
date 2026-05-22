@@ -169,8 +169,8 @@ Status:: #doing Project:: [[APF]] Deadline:: 2026-05-25
 
 ## CR14 — Tài sản NĐT / Lịch trả lãi (APFV2-2363)
 
-- [ ] Bổ sung dòng tổng: Tiền lãi trước thuế, Tiền thuế, Tiền lãi sau thuế
-- [ ] Vị trí: trên bảng, ngang hàng nút Xuất file
+- [ ] Bổ sung dòng tổng: Tiền lãi trước thuế, Tiền thuế, Tiền lãi sau thuế #waiting 
+- [ ] Vị trí: trên bảng, ngang hàng nút Xuất file #waiting 
 
 **Note:**
 - BE chưa trả ra data 
