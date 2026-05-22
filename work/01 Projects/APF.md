@@ -187,11 +187,11 @@ Status:: #doing Project:: [[APF]] Deadline:: 2026-05-25
 
 ## CR16 — Báo cáo BC02 (APFV2-2357)
 
-- [ ] Thêm cột Ngày đặt lệnh (trước cột Ngày đáo hạn)
+- [ ] Thêm cột Ngày đặt lệnh (trước cột Ngày đáo hạn) #waiting 
 - [ ] Thêm chia ô kẻ phần tổng số dư tài sản
 
 **Note:**
-
+* BE chưa trả ra trường ngày đặt lệnh
 ---
 
 ## CR17 — Quản lý tài sản / Lịch trả lãi (APFV2-2384)
