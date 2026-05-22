@@ -89,7 +89,7 @@ Status:: #doing Project:: [[APF]] Deadline:: 2026-05-25
 
 ## CR5 — Duyệt thay đổi TT NĐT
 
-- [ ] Nguồn khai thác bắt buộc nhập khi duyệt với Loại thay đổi = Cập nhật thông tin NĐT
+- [x] Nguồn khai thác bắt buộc nhập khi duyệt với Loại thay đổi = Cập nhật thông tin NĐT ✅ 2026-05-22
 
 **Note:**
 
@@ -139,7 +139,7 @@ Status:: #doing Project:: [[APF]] Deadline:: 2026-05-25
 
 ## CR11 — Giao dịch tiền / Danh sách (APFV2-2391)
 
-- [ ] Bổ sung trường Số tài khoản sau trường NĐT (danh sách + xuất file)
+- [ ] Bổ sung trường Số tài khoản sau trường NĐT (danh sách + xuất file) #waiting 
 - [x] Xuất excel: tách cột ghép thành mỗi trường 1 cột (Common rule) ✅ 2026-05-21
 - [x] Tách cột +/- khỏi giá trị tiền khi hiển thị và xuất file ✅ 2026-05-21
 
@@ -188,7 +188,7 @@ Status:: #doing Project:: [[APF]] Deadline:: 2026-05-25
 ## CR16 — Báo cáo BC02 (APFV2-2357)
 
 - [ ] Thêm cột Ngày đặt lệnh (trước cột Ngày đáo hạn) #waiting 
-- [ ] Thêm chia ô kẻ phần tổng số dư tài sản
+- [ ] Thêm chia ô kẻ phần tổng số dư tài sản #waiting 
 
 **Note:**
 * BE chưa trả ra trường ngày đặt lệnh
