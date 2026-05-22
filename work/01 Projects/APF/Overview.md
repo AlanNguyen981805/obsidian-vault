@@ -4,7 +4,7 @@
 Deadline: 2026-05-25
 
 ```dataviewjs
-const tasks = dv.pages('"01 Projects/APF/tasks"').file.tasks;
+const tasks = dv.pages('"work/01 Projects/APF/tasks"').file.tasks;
 
 const total = tasks.length;
 const done = tasks.where(t => t.completed).length;
