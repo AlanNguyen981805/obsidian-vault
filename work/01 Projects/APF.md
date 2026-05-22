@@ -105,7 +105,7 @@ Status:: #doing Project:: [[APF]] Deadline:: 2026-05-25
 
 ## CR10 — Chặn TK ngừng hoạt động
 
-- [ ] Chặn Thêm/Sửa/Duyệt/Đối trừ với TK trạng thái = Ngừng hoạt động 📅 2026-05-21
+- [x] Chặn Thêm/Sửa/Duyệt/Đối trừ với TK trạng thái = Ngừng hoạt động 📅 2026-05-21 ✅ 2026-05-22
 
 **Note:**
 
