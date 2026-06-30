@@ -37,8 +37,7 @@
               "title": "CR3-Lenh-rut-tich-luy"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -173,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "work/01 Projects/APF/tasks/CR3-Lenh-rut-tich-luy.md",
+                "file": "work/📊 Dashboard.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CR3-Lenh-rut-tich-luy"
+              "title": "Outline of 📊 Dashboard"
             }
           }
         ],
@@ -201,12 +200,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d64f8f92705627c8",
+  "active": "0096a506cb1f07fe",
   "lastOpenFiles": [
+    "work/01 Projects/APF/tasks/CR3-Lenh-rut-tich-luy.md",
     "Untitled",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
-    "work/01 Projects/APF/tasks/CR3-Lenh-rut-tich-luy.md",
     "work/📊 Dashboard.md",
     "CR13-Dung-huy-dong.md",
     "work/01 Projects/APF/overview.md",
